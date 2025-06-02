@@ -1,3 +1,5 @@
+![Capture3](https://github.com/user-attachments/assets/c93dfc7d-b2a4-4bae-af9d-7412fb760cbe)
+
 ## Features
 - **Real-Time Voice Processing**: Modulate your voice live using a microphone and output to speakers or a virtual audio cable.
 - **Customizable Effects**:
