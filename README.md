@@ -30,9 +30,9 @@
 - A microphone and output device (speakers or virtual audio cable like VB-Audio)
 
 ## Contributing
--Contributions are welcome! Please submit issues or pull requests to the GitHub repository. For feature requests or bug reports, include detailed information about your setup and the issue.
--Support
--If you enjoy Meow Voice Changer and want to support its development, consider donating at paypal.me/ShiroSnep.
+- Contributions are welcome! Please submit issues or pull requests to the GitHub repository. For feature requests or bug reports, include detailed information about your setup and the issue.
+- [Support](https://github.com/Debug-Snep/Voice-Changer/discussions/1#discussion-8410747)
+- If you enjoy Meow Voice Changer and want to support its development, consider donating at paypal.me/ShiroSnep.
 
 ## License
 -Meow Voice Changer is free to use and redistribute for non-commercial purposes. It uses the NAudio and SoundTouch for NAudio libraries, which have their own licensing terms. See their respective repositories for details.
