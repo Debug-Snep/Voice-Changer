@@ -32,6 +32,7 @@
 ## Contributing
 - Contributions are welcome! Please submit issues or pull requests to the GitHub repository. For feature requests or bug reports, include detailed information about your setup and the issue.
 - [Support](https://github.com/Debug-Snep/Voice-Changer/discussions/1#discussion-8410747)
+- [Featur Plans](https://github.com/Debug-Snep/Voice-Changer/discussions/2#discussion-8410756)
 - If you enjoy Meow Voice Changer and want to support its development, consider donating at paypal.me/ShiroSnep.
 
 ## License
