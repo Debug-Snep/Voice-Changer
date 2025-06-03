@@ -1,5 +1,9 @@
 ![Capture3](https://github.com/user-attachments/assets/c93dfc7d-b2a4-4bae-af9d-7412fb760cbe)
 
+## Fixes V 1.7.2:
+- Fixed an issue causing static value to not adjust with user input
+- fixed an issue causing distortion value to not adjust with user input
+
 ## Features
 - **Real-Time Voice Processing**: Modulate your voice live using a microphone and output to speakers or a virtual audio cable.
 - **Customizable Effects**:
