@@ -6,7 +6,6 @@
 - Removed redundant buffer copies used during prototyping. Overall buffer usage should now be 1/5th of what it was.
 - Moved dll files to dll folder for cleaner folder structure.
 
-
 ## Fixes V 1.7.2:
 - Fixed an issue causing static value to not adjust with user input
 - fixed an issue causing distortion value to not adjust with user input
