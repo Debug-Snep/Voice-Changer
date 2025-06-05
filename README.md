@@ -1,6 +1,17 @@
 # MeowVoice Changer.
-![Capture](https://github.com/user-attachments/assets/a6921365-cf39-4e8e-b2ab-95c0588cf311)
+![Capture](https://github.com/user-attachments/assets/38ea4b96-a47b-40d6-80e9-bbade4ad520a) ![Capture2](https://github.com/user-attachments/assets/cd7720c4-d49b-40e2-bf96-f9e116663d66)
 
+
+
+## Version 1.7.5 fixes:
+- Removed old code from settings helper
+- Moved user input loop to own section
+- Changed wavein and waveout into a Using system to ensure proper disposal (did not seem to need it but meh)
+- Redid the UI to display text better
+- Redid help file
+- increased default window size
+
+  
 ## Version 1.7.4 changes:
 - Changed audio pipeline process
 	- **OLD PIPE**: Pitch/Tempo > Ringmod > Effects > Echo/Reverb > EQ
