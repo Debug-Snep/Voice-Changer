@@ -1,6 +1,11 @@
 # MeowVoice Changer.
+![Capture](https://github.com/user-attachments/assets/a6921365-cf39-4e8e-b2ab-95c0588cf311)
 
-![Capture3](https://github.com/user-attachments/assets/c93dfc7d-b2a4-4bae-af9d-7412fb760cbe)
+
+## Version 1.7.3 fixes:
+- Removed redundant buffer copies used during prototyping. Overall buffer usage should now be 1/5th of what it was.
+- Moved dll files to dll folder for cleaner folder structure.
+
 
 ## Fixes V 1.7.2:
 - Fixed an issue causing static value to not adjust with user input
