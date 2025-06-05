@@ -1,6 +1,12 @@
 # MeowVoice Changer.
 ![Capture](https://github.com/user-attachments/assets/a6921365-cf39-4e8e-b2ab-95c0588cf311)
 
+## Version 1.7.4 changes:
+- Changed audio pipeline process
+	- **OLD PIPE**: Pitch/Tempo > Ringmod > Effects > Echo/Reverb > EQ
+	- **NEW PIPE**: EQ > Effects > Pitch/Tempo > Ringmod >  Echo/Reverb > 
+- Added extra error handling code
+- Removed duplicate code used for resetting and loading saved audio. 
 
 ## Version 1.7.3 fixes:
 - Removed redundant buffer copies used during prototyping. Overall buffer usage should now be 1/5th of what it was.

@@ -1,5 +1,6 @@
 <?xml version="1.0"?>
 <Global_Variables xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Lock_Variable>1</Lock_Variable>
   <Sample_Rate>44100</Sample_Rate>
   <Buffer_Milliseconds>100</Buffer_Milliseconds>
   <Sequence_DurationMs>100</Sequence_DurationMs>
