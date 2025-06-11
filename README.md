@@ -1,10 +1,11 @@
-# MeowVoice Changer 1.8.1.
+# MeowVoice Changer 1.8.1. 
 ![image](https://github.com/user-attachments/assets/c9003d75-1b39-47ba-ab76-d7fbf1a154ea)
  ![Capture2](https://github.com/user-attachments/assets/cd7720c4-d49b-40e2-bf96-f9e116663d66)
 
-## Version 1.8.1:
+## Version 1.8.1 scratch core:
 - Removed SoundTouch Library
 - Implemented own vocoder (this is still basic OLA and sound quality has some clipping on phase up) (next step is improved interpolation (cubic or syn) and then move on to SOLA and finally WOLA)
+- Use Version 1.7.5 for best pitch quality while new core is being completed.
 - Tempo setting currently disabled. Will be implemented soon now that library is out.
 - Window frame sizes (used for OLA) is currently hard coded. This will also be open for change again soon.
 
