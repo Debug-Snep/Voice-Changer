@@ -1,5 +1,6 @@
-# MeowVoice Changer.
-![Capture](https://github.com/user-attachments/assets/38ea4b96-a47b-40d6-80e9-bbade4ad520a) ![Capture2](https://github.com/user-attachments/assets/cd7720c4-d49b-40e2-bf96-f9e116663d66)
+# MeowVoice Changer 1.8.1.
+![image](https://github.com/user-attachments/assets/c9003d75-1b39-47ba-ab76-d7fbf1a154ea)
+ ![Capture2](https://github.com/user-attachments/assets/cd7720c4-d49b-40e2-bf96-f9e116663d66)
 
 ## Version 1.8.1:
 - Removed SoundTouch Library
