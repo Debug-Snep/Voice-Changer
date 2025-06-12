@@ -3,8 +3,8 @@
   <Sample_Rate>44100</Sample_Rate>
   <Buffer_Milliseconds>100</Buffer_Milliseconds>
   <Sequence_DurationMs>100</Sequence_DurationMs>
-  <Seek_Window_DurationMs>15</Seek_Window_DurationMs>
-  <Overlap_DurationMs>8</Overlap_DurationMs>
+  <Seek_Window_Size>2500</Seek_Window_Size>
+  <Overlap_Size>2000</Overlap_Size>
   <Pitch_Semi_Tones>0</Pitch_Semi_Tones>
   <Tempo>1</Tempo>
   <Wobble_Depth>0</Wobble_Depth>
